@@ -13,7 +13,8 @@
 
 .particles {
   position: absolute;
-  height: 100vh;
+  height: 100%;
+  overflow: hidden;
   top: 0;
   width: 100%;
   z-index: -1;
